@@ -1,0 +1,9 @@
+{
+  "id": "onenote-native",
+  "name": "Live note",
+  "version": "0.1.0",
+  "minAppVersion": "1.10.0",
+  "description": "Live note：Markdown 笔记本、无限画布、视频学习与阅读批注。",
+  "author": "DeepSeek Harness",
+  "isDesktopOnly": false
+}
